@@ -37,5 +37,5 @@ resource "aws_dynamodb_table" "terraform-lock" {
 
 # when your dynamo statefile is lock and you want to unlock, do it throught the command line  look for the cmd online 
 
-#######
-########
+############
+######################
