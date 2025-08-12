@@ -19,10 +19,11 @@ terraform {
       version = "~> 2.69.0"
     }
   }
-
 }
+
 # Provider Block
 provider "aws" {
   region = var.aws_region
 }
 
+#
